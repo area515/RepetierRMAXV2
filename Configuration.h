@@ -44,7 +44,7 @@
 //  Microstepping mode of your RAMBO board
 #define MICROSTEP_MODES { 16,16,16,16,16 } // [1,2,4,8,16]
 // Motor Current setting (Only functional when motor driver current ref pins are connected to a digital trimpot on supported boards)
-#define MOTOR_CURRENT_PERCENT { 50,50,50,60,55 }
+#define MOTOR_CURRENT_PERCENT { 50,50,50,55,55 }
 
 
 // ################ END MANUAL SETTINGS ##########################
